@@ -4,10 +4,6 @@ This repository contains the benchmarking setup used to evaluate different B-Lin
 
 This guide describes exactly how to reproduce all results.
 
-1. System Requirements
-
-You must be on Linux or WSL. Native Windows is not supported.
-
 Required dependencies:
 
 sudo apt update
